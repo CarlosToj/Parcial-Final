@@ -39,7 +39,9 @@ Este es el resultado del árbol balanceado tras insertar varios números.
 Se aplicaron rotaciones internas y el árbol mantuvo su forma equilibrada.
 
 Antes de ingresar el número 5
+
 ![Árbol AVL balanceado](Arbol_Antes.png)
 
 Después de ingresar el número 5
+
 ![Árbol AVL balanceado](arbol_balanceado.png)
