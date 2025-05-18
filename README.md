@@ -33,6 +33,8 @@ No utiliza listas predefinidas, todos los datos se ingresan por el usuario en ti
 ## Link del video en Youtube explicando el código y mostrando como funciona
 - https://youtu.be/DmSfBmflqqY
 
+---
+
 ### 🌲 Árbol AVL tras insertar la secuencia: 30, 20, 40, 10, 25, 35, 50, 5
 
 Este es el resultado del árbol balanceado tras insertar varios números.  
